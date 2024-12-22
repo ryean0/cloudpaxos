@@ -1,4 +1,4 @@
-```markdown
+
 # CloudPaxos
 
 ## Overview
@@ -74,4 +74,3 @@ The `paxos.go` implementation originates from a distributed systems course proje
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
